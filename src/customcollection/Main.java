@@ -4,6 +4,7 @@ package customcollection;
 // Основной класс для примера использования CustomCollection
 public class Main {
 
+
     public static void main(String[] args) {
         // Создание экземпляра CustomCollection с элементами типа Integer
         CustomCollection<Integer> customCollection = new CustomCollection<>();
